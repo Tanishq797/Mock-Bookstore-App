@@ -1,5 +1,4 @@
-# Mock-Bookstore-App
-Created a Bookstore App with 2 other members which essentially allows users to simulate the purchasing of items in an actual online store with points instead of currency. Created using JavaFX for UI and functionality.
+Rudimentary Bookstore Management System Java Project
 
 Project implemented the following OOP principles:
 - Design Patterns (Singleton + Observable Design Patterns)
@@ -15,15 +14,12 @@ Features:
 - Purchase book(s) (regular), 
 - Purchase book(s) (redeem points)
 
-NOTE: To run the project, ensure you have JDK and JavaFX installed
+Note: Not exactly implementing the "State Design-Pattern"
+Note: To run the project, ensure you have JDK and JavaFX installed
+Note: Used Netbeans 8.2 IDE to create project
 
-![image](https://github.com/Tanishq797/Mock-Bookstore-App/assets/92274953/7364b458-50b1-4c12-899a-037f3415113a)
+![image](https://user-images.githubusercontent.com/61558794/233463023-e507de3e-1355-4486-8113-808703cd365b.png)
 
-Login Page for application once loaded
+![image](https://user-images.githubusercontent.com/61558794/233463064-9d58fbc4-a954-43f3-8046-b40fb48a9902.png)
 
-![image](https://github.com/Tanishq797/Mock-Bookstore-App/assets/92274953/af39a391-44fc-4fac-9d2f-b15be69ca11c)
-![image](https://github.com/Tanishq797/Mock-Bookstore-App/assets/92274953/492cfafa-fecf-4221-81ff-63b951d461f4)
-
-Layout once loaded into application
-
-
+![image](https://user-images.githubusercontent.com/61558794/233463089-82271573-194d-4793-87aa-a8117bd5ee71.png)
